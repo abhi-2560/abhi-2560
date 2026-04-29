@@ -48,8 +48,13 @@ I build scalable applications, work with real-time systems, and actively explore
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-Design-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/OAuth-Auth-000000?style=for-the-badge&logo=oauth"/>
   <img src="https://img.shields.io/badge/Socket.io-Real--Time-010101?style=for-the-badge&logo=socket.io"/>
   <img src="https://img.shields.io/badge/rEACT-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-Design-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
@@ -79,6 +84,9 @@ I build scalable applications, work with real-time systems, and actively explore
 <p align="left">
   <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-Streaming-231F20?style=for-the-badge&logo=apachekafka"/>
+  <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-Version%20Control-black?style=for-the-badge&logo=git"/>
 
 
@@ -154,9 +162,9 @@ I build scalable applications, work with real-time systems, and actively explore
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,mongodb,kafka" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,react,postman,vite,redis,github" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,react,postman,vite,redis,github,graphql" />
 </p>
 
