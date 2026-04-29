@@ -11,7 +11,7 @@
 
 
   <p>
-    <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Web%20Development-red" />
+    <img src="https://img.shields.io/badge/Focus-DSA%20%7C%20Web%20Technologies-red" />
     <img src="https://img.shields.io/badge/Code-C%2B%2B-success" />
     <img src="https://img.shields.io/badge/Exploring-GenAI%20%26%20ML-blue" />
     <img src="https://img.shields.io/badge/Learning-Scalable%20Systems%20%7C%20System%20Design-purple" />
