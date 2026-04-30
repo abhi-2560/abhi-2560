@@ -54,7 +54,6 @@ I build scalable applications, work with real-time systems, and actively explore
 <img src="https://img.shields.io/badge/OAuth-Auth-000000?style=for-the-badge&logo=oauth"/>
   <img src="https://img.shields.io/badge/Socket.io-Real--Time-010101?style=for-the-badge&logo=socket.io"/>
   <img src="https://img.shields.io/badge/rEACT-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-Design-009688?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
