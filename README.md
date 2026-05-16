@@ -140,7 +140,6 @@ I build scalable applications, work with real-time systems, and actively explore
 </p>
 
 
-
 # 📫 Connect With Me
 
 <p align="center">
