@@ -81,6 +81,7 @@ I build scalable applications, work with real-time systems, and actively explore
 
 ### 🚀 Deployment & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-Deploy-000000?style=for-the-badge&logo=vercel"/>
   <img src="https://img.shields.io/badge/Render-Deploy-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
   <img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -160,7 +161,7 @@ I build scalable applications, work with real-time systems, and actively explore
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,mongodb,kafka" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,react,postman,vite,redis,github,graphql" />
