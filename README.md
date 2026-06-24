@@ -49,12 +49,15 @@ I build scalable applications, work with real-time systems, and actively explore
   <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-Design-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth-Auth-000000?style=for-the-badge&logo=oauth"/>
   <img src="https://img.shields.io/badge/Socket.io-Real--Time-010101?style=for-the-badge&logo=socket.io"/>
-  <img src="https://img.shields.io/badge/rEACT-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/rEACT-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  
 </p>
 
 ### 🗄️ Databases & ORM
@@ -161,9 +164,9 @@ I build scalable applications, work with real-time systems, and actively explore
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka,rabbitmq" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,react,postman,vite,redis,github,graphql" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,react,postman,vite,redis,github,graphql,nginx" />
 </p>
 
