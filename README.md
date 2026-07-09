@@ -144,6 +144,22 @@ I build scalable applications, work with real-time systems, and actively explore
 </p>
 
 
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-2560&theme=tokyo-night">
+  
+</p>
+
+## 💭 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
 # 📫 Connect With Me
 
 <p align="center">
