@@ -41,6 +41,7 @@ I build scalable applications, work with real-time systems, and actively explore
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -52,11 +53,12 @@ I build scalable applications, work with real-time systems, and actively explore
   <img src="https://img.shields.io/badge/Nginx-Reverse%20Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/GraphQL-API-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth-Auth-000000?style=for-the-badge&logo=oauth"/>
   <img src="https://img.shields.io/badge/Socket.io-Real--Time-010101?style=for-the-badge&logo=socket.io"/>
   <!-- <img src="https://img.shields.io/badge/rEACT-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
   
 </p>
 
@@ -65,6 +67,7 @@ I build scalable applications, work with real-time systems, and actively explore
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-ODM-880000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-cACHING-4479A1?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
@@ -180,9 +183,9 @@ I build scalable applications, work with real-time systems, and actively explore
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka,rabbitmq,flask,html,css" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,react,postman,vite,redis,github,graphql,nginx" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,python,sqlite,react,postman,vite,redis,github,graphql,nginx" />
 </p>
 
