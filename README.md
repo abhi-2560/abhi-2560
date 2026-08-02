@@ -58,6 +58,7 @@ I build scalable applications, work with real-time systems, and actively explore
   <img src="https://img.shields.io/badge/Express.js-API-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth-Auth-000000?style=for-the-badge&logo=oauth"/>
   <img src="https://img.shields.io/badge/Socket.io-Real--Time-010101?style=for-the-badge&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/TanStack%20Query-Data%20Fetching-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/rEACT-Frontend-646CFF?style=for-the-badge&logo=vite&logoColor=white"/> -->
   
 </p>
@@ -69,6 +70,8 @@ I build scalable applications, work with real-time systems, and actively explore
   <img src="https://img.shields.io/badge/MySQL-Relational-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-cACHING-4479A1?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
 </p>
 
 ### 🤖 AI & Integrations
@@ -183,7 +186,7 @@ I build scalable applications, work with real-time systems, and actively explore
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka,rabbitmq,flask,html,css" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka,rabbitmq,flask,postgresql,html,css" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,git,python,sqlite,react,postman,vite,redis,github,graphql,nginx" />
