@@ -41,7 +41,8 @@ I build scalable applications, work with real-time systems, and actively explore
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FFEB3B?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
@@ -186,9 +187,9 @@ I build scalable applications, work with real-time systems, and actively explore
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,docker,nodejs,express,aws,mongodb,kafka,rabbitmq,flask,postgresql,html,css" />
+  <img src="https://skillicons.dev/icons?i=docker,cpp,js,nodejs,express,aws,mongodb,kafka,rabbitmq,html,flask,postgresql,graphql" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,git,python,sqlite,react,postman,vite,redis,github,graphql,nginx" />
+  <img src="https://skillicons.dev/icons?i=redis,mysql,git,python,sqlite,react,postman,css,vite,github,nginx,ts" />
 </p>
 
