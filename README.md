@@ -2,7 +2,9 @@
 <div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Abhijeet;C%2B%2B+%7C+DSA+%7C+Development+%7C+System+Design;Building+Scalable+Web+Apps;Exploring+GenAI+%7CML" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Abhijeet;C%2B%2B+%7C+DSA+%7C+Development+%7C+System+Design;Building+Scalable+Web+Apps;Exploring+GenAI+%7CML" /> -->
+ <img src="https://readme-typing-svg.demolab.com/?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi!%20I'm%20Abhijeet;C%2B%2B%20%7C%20DSA%20%7C%20Development%20%7C%20System%20Design;Building%20Scalable%20Web%20Apps;Exploring%20GenAI%20%7C%20ML" />
+
 
 </div>
   <h1>🚀 Abhijeet Shukla </h1>
@@ -150,7 +152,7 @@ I build scalable applications, work with real-time systems, and actively explore
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 </p>
 
-
+<!---
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -158,6 +160,7 @@ I build scalable applications, work with real-time systems, and actively explore
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi-2560&theme=tokyo-night">
   
 </p>
+--->
 
 ## 💭 Random Dev Quote
 
