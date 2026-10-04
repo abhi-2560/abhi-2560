@@ -7,7 +7,7 @@
 
 
 </div>
-  <h1>🚀 Abhijeet Shukla </h1>
+  <h1>👨‍💻 Abhijeet Shukla </h1>
   
   <p><strong>Aspiring Software Engineer | C++ | System Design | Web Development</strong></p>
 
@@ -80,6 +80,8 @@ I build scalable applications, work with real-time systems, and actively explore
 ### 🤖 AI & Integrations
 <p align="left">
   <img src="https://img.shields.io/badge/Gemini%20API-AI%20Integration-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
+
 </p>
 
 
@@ -161,6 +163,22 @@ I build scalable applications, work with real-time systems, and actively explore
   
 </p>
 --->
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/abhi-2560">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=abhi-2560&show_icons=true&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/abhi-2560">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-2560&layout=compact&langs_count=6&theme=tokyonight" />
+</a>
+
+</div>
+
+
 
 ## 💭 Random Dev Quote
 
